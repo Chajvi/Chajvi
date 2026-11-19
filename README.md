@@ -30,9 +30,9 @@ Creating, exploring, and finding inspiration somewhere between technology and th
 
 ### SELECTED PROJECTS
 
-[Horse Log](./HorseLog) ·
-[SÄRNA](./S-RNACODE) ·
-[Dungeon Tour](./dungeon-tour)
+[Horse Log](https://github.com/Chajvi/HorseLog.git) ·
+[SÄRNA](https://github.com/Chajvi/S-RNACODE.git) ·
+[Dungeon Tour](https://github.com/Chajvi/dungeon-tour.git)
 
 <br>
 
