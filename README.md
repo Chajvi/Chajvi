@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Animated GIF -->
@@ -17,21 +18,49 @@ Building things somewhere on the Swedish west coast.
 
 ### ABOUT
 
-Creating, exploring, and finding inspiration somewhere between technology and the open sea
+Creating, exploring, and finding inspiration somewhere between technology and the open sea.
 
 <br>
 
-### TECHNOLOGIES
+### TECHNOLOGIES & SKILLS
 
-`Python` · `C#` · `.NET` · `SQL` · `Git`. `Ubuntu`
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cs,html,css,php,powershell&theme=dark" />
 
 <br>
+
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+
+<br>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
+
+<br>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ubuntu,linux,windows,figma&theme=dark" />
+
+<br>
+
+**Development Concepts**
+
+<sub>Object-oriented programming · REST APIs · API development · Backend development · Web development</sub>
+
+<br>
+
+---
 
 ### SELECTED PROJECTS
 
-[Horse Log](https://github.com/Chajvi/HorseLog.git) ·
-[SÄRNA](https://github.com/Chajvi/S-RNACODE.git) ·
-[Dungeon Tour](https://github.com/Chajvi/dungeon-tour.git)
+[Horse Log](https://github.com/Chajvi/HorseLog) ·
+[SÄRNA](https://github.com/Chajvi/S-RNACODE) ·
+[Dungeon Tour](https://github.com/Chajvi/dungeon-tour)
 
 <br>
 
