@@ -6,7 +6,7 @@
 
 <br>
 
-Hi, I'm Jennifer!
+# Hi, I'm Jennifer!
 
 **Developer · Sweden**
 
@@ -34,7 +34,7 @@ From hand painting all of my art, writing dialogue and
 
 <br>
 </div>
-TECHNOLOGIES & SKILLS
+## TECHNOLOGIES & SKILLS
 
 **Languages**
 
@@ -68,7 +68,7 @@ TECHNOLOGIES & SKILLS
 
 ---
 
-SELECTED PROJECTS
+## SELECTED PROJECTS
 
 [Horse Log](https://github.com/Chajvi/HorseLog) ·
 [(COMING IN 2028)SÄRNA](https://github.com/Chajvi/S-RNACODE) ·
