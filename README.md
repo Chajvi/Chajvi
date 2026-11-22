@@ -6,7 +6,7 @@
 
 <br>
 
-# Hi, I'm Jennifer!
+Hi, I'm Jennifer!
 
 **Developer · Sweden**
 
@@ -16,7 +16,7 @@ Building things somewhere on the Swedish west coast.
 
 ---
 <div align="left">
-### ABOUT
+ABOUT
 
 I'm a backend developer based in Sweden, focused on C#/.NET. I've had a lifelong interest in hardware where I've built
 everything from your standard PC to cyberdecks made of old spareparts. The last couple of years I've started working
@@ -34,7 +34,7 @@ From hand painting all of my art, writing dialogue and
 
 <br>
 </div>
-### TECHNOLOGIES & SKILLS
+TECHNOLOGIES & SKILLS
 
 **Languages**
 
@@ -68,7 +68,7 @@ From hand painting all of my art, writing dialogue and
 
 ---
 
-### SELECTED PROJECTS
+SELECTED PROJECTS
 
 [Horse Log](https://github.com/Chajvi/HorseLog) ·
 [(COMING IN 2028)SÄRNA](https://github.com/Chajvi/S-RNACODE) ·
